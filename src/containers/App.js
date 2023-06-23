@@ -6,7 +6,7 @@ import './App.css';
 import Scroll from '../components/Scroll';
 import ErrorBoundary from '../components/ErrorBoundary';
 
-function App () {
+const App= () => {
   // constructor(){
   //   super();
   //   this.state = {
